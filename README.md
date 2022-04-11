@@ -10,7 +10,7 @@ GoBarber é uma aplicação para agendamento de serviços de beleza que atua nas
 
 ### `Objetivo`
 
-O presente repositório trata apenas da aplicação mobile que é utilizada pelos clientes a fim de agendar os serviços de beleza que poderão ser consultados pelos prestadores de serviço utilizando a aplicação web.
+O presente repositório trata apenas da aplicação mobile que é utilizada pelos clientes a fim de agendar os serviços de beleza que poderão ser consultados pelos prestadores de serviço utilizando a aplicação web. 
 
 ### `Como iniciar?`
 
