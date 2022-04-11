@@ -1,4 +1,4 @@
-# GoBarber-Web :computer:
+# GoBarber-Mobile :vibration_mode:
 
 ### `Conceito`
 
@@ -10,23 +10,23 @@ GoBarber é uma aplicação para agendamento de serviços de beleza que atua nas
 
 ### `Objetivo`
 
-O presente repositório trata apenas da aplicação web que é utilizada pelos prestadores de serviço de beleza a fim de consultar os agendamentos que foram realizados pelos clientes utilizando a aplicação mobile.
+O presente repositório trata apenas da aplicação mobile que é utilizada pelos clientes a fim de agendar os serviços de beleza que poderão ser consultados pelos prestadores de serviço utilizando a aplicação web.
 
 ### `Como iniciar?`
 
-Defina em seu terminal o diretório "*Project*" e digite "*yarn start*".
+Defina em seu terminal o diretório "*Project*" e digite "*yarn run react-native run-android*".
 
 ### `Como usar?`
 
-Crie uma conta de usuário, faça *login* e consulte os agendamentos marcados para seus serviços.
+Crie uma conta de usuário, faça *login*, selecione o prestador de serviço desejado e, por fim, escolha o horário pertinente.
 
 ### `Importante`
 
-Uma vez que se trata de um aplicação completa, é necessário que a parcela referente ao Back-End esteja operando concomitantemente à parcela do Front-End.
+Uma vez que se trata de um aplicação completa, é necessário que a parcela referente ao Back-End esteja operando concomitantemente às parcelas do Front-End. Além disso, por tratar-se de uma aplicação mobile, é necessário a utilização de um emulador para a compilação.
 
 ### `Demonstração`
 
-![GIF](https://media1.giphy.com/media/i4LBVHk919YQ4MQjgA/giphy.gif)
+![GIF](https://i.imgur.com/5X5bZOc.gif)
 
 ------------------------------------------------------------------
 
